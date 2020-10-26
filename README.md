@@ -10,12 +10,14 @@ Project:<br />
       <ul>
         <li>Connect to redux to retrieve data from store and load action from redux</li>
         <li> Actions and data are passing from parent component to child components.</li>
+        <li>Directory: .../redux/component/BookContainer.js</li>
       </ul>
   </li>
   <li>
       Redux
     <ul>
       <li>Sample data is binding to redux store.</li>
+      <li>directory : .../redux/book</li>
     </ul>
   </li>
   </ul>
