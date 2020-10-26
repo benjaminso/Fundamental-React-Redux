@@ -12,11 +12,10 @@ Project:<br />
         <li> Actions and data are passing from parent component to child components.</li>
       </ul>
   </li>
+  <li>
+      Redux
+    <ul>
+      <li>Sample data is binding to redux store.</li>
+    </ul>
+  </li>
   </ul>
-    
-    
-      
-     
-    Redux
-      Sample data is binding to redux store.
-    
